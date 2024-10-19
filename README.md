@@ -1,0 +1,1 @@
+These data are available and provided for understanding the paper “Seismic mitigation of porcelain cylindrical electrical equipment using synergistic concept with base isolation and tuned mass damper” in journal of Earthquake Spectra.
